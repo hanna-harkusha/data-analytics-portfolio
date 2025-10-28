@@ -33,8 +33,6 @@ The goal was to monitor income and expenses by category, identify spending patte
 <img width="1785" height="849" alt="image" src="https://github.com/user-attachments/assets/4dd6d35b-a0e0-43f3-a498-bdc13c9c91c0" />
 <img width="1493" height="826" alt="image" src="https://github.com/user-attachments/assets/7eba3ef5-7ea0-48b1-97df-ae19f6c29056" />
 
-  
-`![Finance Tracker Preview](./Finance_Tracker_Screenshot.png)`
 
 ### 📂 Files
 - [Personal_Finance_Tracker (Google Sheets)](https://docs.google.com/spreadsheets/d/1SzK7iaq__meOTHeI78iiIPq8QMOGC-Po30qG-DJjCBo/edit?gid=636085762#gid=636085762)
