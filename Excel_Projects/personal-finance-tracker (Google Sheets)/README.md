@@ -29,7 +29,11 @@ The goal was to monitor income and expenses by category, identify spending patte
 - Enhanced personal budgeting awareness through visual insights  
 
 ### 🖼️ Example
-*(Add a screenshot of your dashboard or summary chart here)*  
+<img width="1858" height="837" alt="image" src="https://github.com/user-attachments/assets/1d17c489-5beb-4dd3-b6ee-e922a84c3b63" />
+<img width="1785" height="849" alt="image" src="https://github.com/user-attachments/assets/4dd6d35b-a0e0-43f3-a498-bdc13c9c91c0" />
+<img width="1493" height="826" alt="image" src="https://github.com/user-attachments/assets/7eba3ef5-7ea0-48b1-97df-ae19f6c29056" />
+
+  
 `![Finance Tracker Preview](./Finance_Tracker_Screenshot.png)`
 
 ### 📂 Files
