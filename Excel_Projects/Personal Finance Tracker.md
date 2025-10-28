@@ -29,9 +29,10 @@ The goal was to monitor income and expenses by category, identify spending patte
 - Enhanced personal budgeting awareness through visual insights  
 
 ### 🖼️ Example
-<img width="1858" height="837" alt="image" src="https://github.com/user-attachments/assets/1d17c489-5beb-4dd3-b6ee-e922a84c3b63" />
-<img width="1785" height="849" alt="image" src="https://github.com/user-attachments/assets/4dd6d35b-a0e0-43f3-a498-bdc13c9c91c0" />
-<img width="1493" height="826" alt="image" src="https://github.com/user-attachments/assets/7eba3ef5-7ea0-48b1-97df-ae19f6c29056" />
+<img width="1777" height="873" alt="image" src="https://github.com/user-attachments/assets/0c73ea6d-12f9-4527-813d-6ecf5ca512e3" />
+<img width="1231" height="501" alt="image" src="https://github.com/user-attachments/assets/653abde5-50f0-4558-9862-786427a1dd8b" />
+<img width="1864" height="839" alt="image" src="https://github.com/user-attachments/assets/96b0bfce-18ca-4ebb-a338-282a859e1fe5" />
+<img width="1423" height="881" alt="image" src="https://github.com/user-attachments/assets/d883e598-06b8-48b0-a75e-e7c772ff5dfb" />
 
 
 ### 📂 Files
