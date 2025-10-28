@@ -17,7 +17,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 ## 📁 Projects
 
 ### Excel / Google Sheets
-1. [Personal Finance Tracker (Google Sheets)]() — .
+1. [Personal Finance Tracker (Google Sheets)](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/personal-finance-tracker) — .
 2. 
 
 ### Power BI
