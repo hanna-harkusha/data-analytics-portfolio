@@ -8,7 +8,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 
 ## 🔧 Tools & Skills
 - **Excel / Google Sheets** – dashboards, Power Query, data cleaning, automation  
-- **Power BI** – DAX, interactive reports, data modeling  
+- **Power BI** – DAX, Power Query, interactive reports 
 - **SQL** – querying, joins, aggregations *(in progress)*  
 - **Python** – pandas, matplotlib, data analysis *(in progress)*
 
