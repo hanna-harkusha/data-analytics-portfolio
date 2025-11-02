@@ -9,7 +9,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 ## 🔧 Tools & Skills
 - **Excel / Google Sheets** – dashboards, Power Query, data cleaning, automation  
 - **Power BI** – DAX, Power Query, interactive reports 
-- **SQL** – querying, joins, aggregations *(in progress)*  
+- **SQL** – querying, joins, aggregations
 - **Python** – pandas, matplotlib, data analysis *(in progress)*
 
 ---
@@ -29,7 +29,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 2. 
 
 ### Python
-1. 
+1.  [Data Generation (summer collection 2024–2025)]() — 
 2. 
 
 ---
