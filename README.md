@@ -21,15 +21,20 @@ My goal is to automate reporting, visualize business performance, and make data-
 2. 
 
 ### Power BI
+1.  
+2.  
+
+### Tableau
 1. 
 2. 
 
+ 
 ### SQL
 1. 
 2. 
 
 ### Python
-1.  [Data Generation (summer collection 2024–2025)]() — 
+1.  
 2. 
 
 ### Others:
