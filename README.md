@@ -33,7 +33,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 2. 
 
 ### Others:
-1. [Excel_Projects/Personal Finance Forecasting with Time Series Analysis.md](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Excel_Projects/Personal%20Finance%20Forecasting%20with%20Time%20Series%20Analysis.md)
+1. [Personal Finance Forecasting with Time Series Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Excel_Projects/Personal%20Finance%20Forecasting%20with%20Time%20Series%20Analysis.md)
 2. 
 ---
 
