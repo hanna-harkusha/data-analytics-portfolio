@@ -1,7 +1,7 @@
 # Data Analytics Portfolio – Hanna Harkusha 📊
 
 Welcome to my data analytics portfolio!✨  
-Here I collect my analytical projects built in **Excel**, **Power Query**, **Google Sheets**, **Power BI**, and **Python** and **SQL**.  
+Here I collect my analytical projects built in **Excel**, **Power Query**, **Google Sheets**, **Power BI**, **Python**, **SQL** and etc.  
 My goal is to automate reporting, visualize business performance, and make data-driven decisions more accessible.
 
 --
@@ -32,6 +32,9 @@ My goal is to automate reporting, visualize business performance, and make data-
 1.  [Data Generation (summer collection 2024–2025)]() — 
 2. 
 
+### Others:
+1. My 
+2. 
 ---
 
 ## Contact 📝
