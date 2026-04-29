@@ -33,7 +33,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 2. 
 
 ### Others:
-1. My 
+1. Personal Finance Forecasting with Time Series Analysis(Excel_Projects/Personal Finance Forecasting with Time Series Analysis.md)
 2. 
 ---
 
