@@ -1,7 +1,7 @@
 # Data Analytics Portfolio – Hanna Harkusha 📊
 
 Welcome to my data analytics portfolio!✨  
-Here I collect my analytical projects built in **Excel**, **Power Query**, **Google Sheets**, **Power BI**, **Python**, **SQL** and etc.  
+Here I collect my analytical projects built in **Excel**, **Power Query**, **Google Sheets**, **Power BI**, **Tableau**, **Python**, **SQL** and etc.  
 My goal is to automate reporting, visualize business performance, and make data-driven decisions more accessible.
 
 --
@@ -10,7 +10,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 - **Excel / Google Sheets** – dashboards, Power Query, data cleaning, automation  
 - **Power BI** – DAX, Power Query, interactive reports 
 - **SQL** – querying, joins, aggregations
-- **Python** – pandas, matplotlib, data analysis *(in progress)*
+- **Python** – pandas, matplotlib, data analysis
 
 ---
 
@@ -34,10 +34,6 @@ My goal is to automate reporting, visualize business performance, and make data-
 2. 
 
 ### Python
-1.  
-2. 
-
-### Others:
 1. [Personal Finance Forecasting with Time Series Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Excel_Projects/Personal%20Finance%20Forecasting%20with%20Time%20Series%20Analysis.md)
 2. 
 ---
