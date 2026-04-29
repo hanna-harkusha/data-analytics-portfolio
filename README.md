@@ -1,12 +1,12 @@
-# 📊 Data Analytics Portfolio – Hanna Harkusha
+# Data Analytics Portfolio – Hanna Harkusha 📊
 
 Welcome to my data analytics portfolio!✨  
-Here I collect my analytical projects built in **Excel**, **Power Query**, **Google Sheets**, **Power BI**, and soon **Python** and **SQL**.  
+Here I collect my analytical projects built in **Excel**, **Power Query**, **Google Sheets**, **Power BI**, and **Python** and **SQL**.  
 My goal is to automate reporting, visualize business performance, and make data-driven decisions more accessible.
 
 --
 
-## 🔧 Tools & Skills
+## Tools & Skills
 - **Excel / Google Sheets** – dashboards, Power Query, data cleaning, automation  
 - **Power BI** – DAX, Power Query, interactive reports 
 - **SQL** – querying, joins, aggregations
@@ -14,7 +14,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 
 ---
 
-## 📁 Projects
+## Projects
 
 ### Excel / Google Sheets
 1. [Personal Finance & Habit Tracker (Google Sheets)](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Excel_Projects/Personal%20Finance%20Tracker.md) — Financial analysis to identify spending, income patterns, and behavioral trends.
@@ -34,7 +34,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 
 ---
 
-## 📬 Contact
+## Contact 📝
 📧 Email: [hannaharkusha1@gmail.com](mailto:hannaharkusha1@gmail.com)  
 🌐 LinkedIn: [linkedin.com/in/hanna-harkusha-435625299](https://www.linkedin.com/in/hanna-harkusha-435625299)  
 💼 GitHub: [github.com/hanna-harkusha](https://github.com/hanna-harkusha)
