@@ -4,7 +4,7 @@ Welcome to my data analytics portfolio!✨
 Here I collect my analytical projects built in **Excel**, **Power Query**, **Google Sheets**, **Power BI**, **Tableau**, **Python**, **SQL** and etc.  
 My goal is to automate reporting, visualize business performance, and make data-driven decisions more accessible.
 
---
+---
 
 ## Tools & Skills
 - **Excel / Google Sheets** – dashboards, Power Query, data cleaning, automation  
