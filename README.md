@@ -26,7 +26,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 2. [Active Users and Activity Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Active%20Users%20and%20Activity%20Analysis.md) - Analysis of user activity, engagement metrics, age distribution, outliers, and cohort-based retention.
 
 ### Power BI 📊
-1.   [Retail Sales Performance Dashboard](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/%20Retail%20Sales%20Performance%20Dashboard.md) - sales, budget vs actual, previous year comparison, inventory, product hierarchy, regional revenue dynamics, DAX measures, Power Query, data modeling.
+1. [Retail Sales Performance Dashboard](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/%20Retail%20Sales%20Performance%20Dashboard.md) - sales, budget vs actual, previous year comparison, inventory, product hierarchy, regional revenue dynamics, DAX measures, Power Query, data modeling.
 
 ### Tableau 📈
 1. [Revenue Metrics Dashboard](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Revenue%20Metrics%20Analysis.md) - Tableau dashboard for analyzing gaming product monetization metrics, including MRR, ARPPU, New Paid Users, Churned Users, Expansion MRR, Contraction MRR, and Back from Churn MRR.
