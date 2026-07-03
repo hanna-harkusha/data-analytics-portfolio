@@ -7,8 +7,12 @@ The first query joins paid user data with payment transactions and calculates th
 The second query aggregates revenue by user and payment month, then uses window functions to compare each month’s revenue with the previous paid month. Based on this comparison, the query calculates **Expansion MRR** and **Contraction MRR** only for consecutive payment months.
 
 The final output helps analyze how user revenue changes over time and supports further calculation of product monetization metrics.
+
 ---
---- Q1---
+
+#### Query 1: User Payment Period
+
+```sql
 SELECT 
     gpu.user_id, 
     gpu.game_name, 
@@ -28,8 +32,13 @@ GROUP BY
     gpu.language, 
     gpu.has_older_device_model, 
     gpu.age;
+```
 
---- Q2---
+---
+
+#### Query 2: Expansion MRR and Contraction MRR Calculation
+
+```sql
 with table_2 as(with table_1 as (
     SELECT 
         user_id, 
@@ -79,6 +88,7 @@ FROM
     table_2
 ORDER BY 
     user_id, payment_month
+```
 
 ---
 
