@@ -30,7 +30,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 
  
 ### SQL
-1. 
+1. [Revenue Metrics Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Revenue%20Metrics%20Analysis%20(SQL).md) — SQL-based analysis of gaming payments, user payment activity, monthly revenue, and Expansion/Contraction MRR.
 2. 
 
 ### Python
