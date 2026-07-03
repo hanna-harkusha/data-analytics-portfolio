@@ -72,3 +72,8 @@ FROM Sale_CY cy
 LEFT JOIN Sale_PY py
     ON cy.StoreID = py.StoreID
 ORDER BY cy.StoreID;
+```
+
+---
+
+> **SQL skills demonstrated:** CTEs, joins, aggregations, fiscal calendar logic, year-over-year comparison, LFL calculation, retail sales analysis
