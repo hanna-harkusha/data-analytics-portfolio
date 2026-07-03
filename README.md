@@ -25,7 +25,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 2.  
 
 ### Tableau
-1. 
+1. [Revenue Metrics Dashboard](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Revenue%20Metrics%20Analysis.md) — Tableau dashboard for analyzing gaming product monetization metrics, including MRR, ARPPU, New Paid Users, Churned Users, Expansion MRR, Contraction MRR, and Back from Churn MRR.
 2. 
 
  
