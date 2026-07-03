@@ -1,16 +1,21 @@
 # Data Analytics Portfolio – Hanna Harkusha 📊
 
-Welcome to my data analytics portfolio!✨  
-Here I collect my analytical projects built in **Google Sheets**, **Power Query**, **Power BI**, **Tableau**, **Python**, **SQL** and etc.  
+Welcome to my data analytics portfolio! ✨  
+Here I collect my analytical projects built with **Google Sheets**, **Power BI**, **Tableau**, **SQL**, and **Python**.  
+The portfolio includes projects focused on financial analysis, user activity analysis, revenue metrics, retail sales performance, LFL sales analysis, and time series forecasting.
 My goal is to automate reporting, visualize business performance, and make data-driven decisions more accessible.
 
 ---
 
 ## Tools & Skills
-- **Excel / Google Sheets** – dashboards, Power Query, data cleaning, automation  
-- **Power BI** – DAX, Power Query, interactive reports 
-- **SQL** – querying, joins, aggregations
-- **Python** – pandas, matplotlib, data analysis
+
+| Tool | Skills demonstrated |
+|---|---|
+| **Google Sheets** | data structuring, formulas, dashboards, financial analysis, user activity analysis, cohort-based retention |
+| **Power BI** | data modeling, Power Query, DAX measures, calendar table, sales analysis, budget vs actual analysis, inventory analysis, interactive reports |
+| **Tableau** | dashboard development, calculated fields, filters, product revenue metrics, churn and MRR visualization |
+| **SQL** | joins, CTEs, aggregations, window functions, fiscal calendar logic, revenue metrics, LFL sales analysis |
+| **Python** | pandas, matplotlib, data analysis, time series forecasting, financial trend analysis |
 
 ---
 
