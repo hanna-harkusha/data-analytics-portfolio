@@ -16,7 +16,7 @@ My goal is to automate reporting, visualize business performance, and make data-
 
 ## Projects
 
-### Excel / Google Sheets
+### Excel / Google Sheets 
 1. [Personal Finance & Habit Tracker (Google Sheets)](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Personal%20Finance%20Tracker.md) — Financial analysis to identify spending, income patterns, and behavioral trends.
 2. [Active Users and Activity Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Active%20Users%20and%20Activity%20Analysis.md) — Analysis of user activity, engagement metrics, age distribution, outliers, and cohort-based retention.
 
