@@ -21,12 +21,10 @@ My goal is to automate reporting, visualize business performance, and make data-
 2. [Active Users and Activity Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Active%20Users%20and%20Activity%20Analysis.md) — Analysis of user activity, engagement metrics, age distribution, outliers, and cohort-based retention.
 
 ### Power BI
-1.  
-2.  
+1.   
 
 ### Tableau
 1. [Revenue Metrics Dashboard](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Revenue%20Metrics%20Analysis.md) — Tableau dashboard for analyzing gaming product monetization metrics, including MRR, ARPPU, New Paid Users, Churned Users, Expansion MRR, Contraction MRR, and Back from Churn MRR.
-2. 
 
  
 ### SQL
@@ -35,7 +33,6 @@ My goal is to automate reporting, visualize business performance, and make data-
 
 ### Python
 1. [Personal Finance Forecasting with Time Series Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Personal%20Finance%20Forecasting%20with%20Time%20Series%20Analysis.md)  — Python analysis of personal finance data with time series forecasting to predict future expenses and evaluate monthly spending patterns.
-2. 
 ---
 
 ## Contact 📝
