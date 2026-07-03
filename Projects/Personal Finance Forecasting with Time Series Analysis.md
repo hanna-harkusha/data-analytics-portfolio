@@ -1,10 +1,10 @@
 # Personal Finance Forecasting with Time Series Analysis 📈
 
-### Objective 🤔
+### Objective:
 To collect, analyze, visualize, and forecast financial expenses using time series methods.  
 The project combines personal finance data with open USDA food expenditure data to explore spending dynamics, identify trends and seasonality, and compare forecasting models for short-term financial prediction.
 
-### Tools & Methods ⚙️
+### Tools & Methods:
 - **Python** – data preparation, time series modeling, forecasting, and evaluation
 - **Pandas / NumPy** – data cleaning, transformation, and aggregation
 - **Matplotlib / Seaborn** – data visualization and trend analysis
@@ -14,7 +14,7 @@ The project combines personal finance data with open USDA food expenditure data 
 - **MAE / RMSE** – model accuracy evaluation
 - **Google Sheets / Excel** – personal finance tracking and initial data structure
 
-### Data Description 📋
+### Data Description:
 
 #### Personal Finance Data
 - **Source:** Manually collected personal expense records
