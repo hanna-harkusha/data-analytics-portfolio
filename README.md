@@ -31,10 +31,10 @@ My goal is to automate reporting, visualize business performance, and make data-
  
 ### SQL
 1. [Revenue Metrics Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Revenue%20Metrics%20Analysis%20(SQL).md) — SQL-based analysis of gaming payments, user payment activity, monthly revenue, and Expansion/Contraction MRR.
-2. 
+2. [Store-Level LFL Sales Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Store-Level%20LFL%20Sales%20Analysis.md) — SQL analysis of like-for-like sales performance at store level by comparing the latest completed fiscal month with the same fiscal month of the previous year.
 
 ### Python
-1. [Personal Finance Forecasting with Time Series Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Personal%20Finance%20Forecasting%20with%20Time%20Series%20Analysis.md)
+1. [Personal Finance Forecasting with Time Series Analysis](https://github.com/hanna-harkusha/data-analytics-portfolio/blob/main/Projects/Personal%20Finance%20Forecasting%20with%20Time%20Series%20Analysis.md)  — Python analysis of personal finance data with time series forecasting to predict future expenses and evaluate monthly spending patterns.
 2. 
 ---
 
