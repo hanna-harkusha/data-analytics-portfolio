@@ -42,9 +42,6 @@ My goal is to automate reporting, visualize business performance, and make data-
 
 ## Contact 📝
 📧 Email: [hannaharkusha1@gmail.com](mailto:hannaharkusha1@gmail.com)  
-🌐 LinkedIn: [linkedin.com/in/hanna-harkusha-435625299](https://www.linkedin.com/in/hanna-harkusha-435625299)  
-💼 GitHub: [github.com/hanna-harkusha](https://github.com/hanna-harkusha)
-
 ---
 
 > *This portfolio is continuously updated as I expand my skills in data analytics.* 🚀
