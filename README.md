@@ -1,9 +1,9 @@
-# Data Analytics Portfolio – Hanna Harkusha 📊
+# Data Analytics Portfolio - Hanna Harkusha 📊
 
-Welcome to my data analytics portfolio! ✨  
+Welcome to my data analytics portfolio ✨  
 Here I collect my analytical projects built with **Google Sheets**, **Power BI**, **Tableau**, **SQL**, and **Python**.  
 The portfolio includes projects focused on financial analysis, user activity analysis, revenue metrics, retail sales performance, LFL sales analysis, and time series forecasting.
-My goal is to automate reporting, visualize business performance, and make data-driven decisions more accessible. 🎯
+My goal is to automate reporting, visualize business performance, and make data-driven decisions more accessible 🎯
 
 ---
 
@@ -45,4 +45,4 @@ My goal is to automate reporting, visualize business performance, and make data-
 
 ---
 
-> *This portfolio is continuously updated as I expand my skills in data analytics.* 🚀
+> *This portfolio is continuously updated as I expand my skills in data analytics* 🚀
